@@ -1,0 +1,4 @@
+.env
+.lab02/
+__pycache__/
+*.pyc
